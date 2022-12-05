@@ -30,3 +30,4 @@ inflection
 GitPython
 torchsde
 safetensors
+gdown==4.5.4
